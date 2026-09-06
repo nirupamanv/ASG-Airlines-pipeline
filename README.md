@@ -1,12 +1,6 @@
 # ASG Airlines — End-to-End Data Engineering Case Study
 
 
-## Repository Structure
-
-├── ASG_Airlines_Pipeline.ipynb      # full pipeline: ingest -> clean -> mask PII -> model -> KPIs
-├── cleaned/                         # cleaned source tables (flights, bookings, payments, passengers)
-├── output/                          # Power BI-ready fact/dim tables + KPI CSVs
-
 
 ## Problem Statement
 ASG Airlines' flight data (booking platforms, scheduling systems, airport logs) had
